@@ -1,0 +1,12 @@
+MPI rank 2 received message: BabYling bubbles
+MPI rank 5 received message: Babbling bbleghs
+MPI rank 9 received message: blegceng bybbles
+Starting Telephone with 10 MPI Ranks...
+MPI rank 0 starting message: Babbling bubbles 
+MPI rank 0 received message: blegcgarghubbles
+MPI rank 1 received message: Babblibleghbbles
+MPI rank 4 received message: Babbling bubyles
+MPI rank 6 received message: Babblegh bubbles
+MPI rank 7 received message: blegheng bubbles
+MPI rank 8 received message: blegceng bubbles
+MPI rank 3 received message: Babblgarghubbles
